@@ -1,0 +1,19 @@
+{
+    "Correcto":"Correct Sign In",
+    "Pc":"Invalid Email and Password must have at least 6 characters",
+    "C":"Invalid Email",
+    "P":"Password must have at least 6 characters",
+    "Email":"Email",
+    "Contrasenha":"Password",
+    "IniciarSesion":"Sign in",
+    "Titulo1Login":"Find even the book you weren't looking for",
+    "Titulo2Login":"Your allied bookstore",
+    "ISBN":"ISBN:",
+    "Autor":"Author:",
+    "Editorial":"Publisher:",
+    "Genero":"Genre:",
+    "Anho":"Year:",
+    "EnLinea":"Available Online:",
+    "Precio":"Price:",
+    "Resumen":"Summary:"
+}

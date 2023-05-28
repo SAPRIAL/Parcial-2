@@ -1,0 +1,19 @@
+{
+    "Correcto":"Ingreso correcto",
+    "Pc":"Correo inválido y la contraseña debe tener al menos 6 caracteres",
+    "C":"Correo inválido",
+    "P":"La contraseña debe tener al menos 6 caracteres",
+    "Email":"Correo electrónico",
+    "Contrasenha":"Contraseña",
+    "IniciarSesion":"Iniciar Sesión",
+    "Titulo1Login":"Encuentra hasta el libro que no estabas buscando",
+    "Titulo2Login":"Tu Librería aliada",
+    "ISBN":"ISBN:",
+    "Autor":"Autor:",
+    "Editorial":"Editorial:",
+    "Genero":"Genero:",
+    "Anho":"Año:",
+    "EnLinea":"Disponibilidad en línea:",
+    "Precio":"Precio:",
+    "Resumen":"Resumen:"
+}
